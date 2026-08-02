@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
     "contextily>=1.7.1",
+    "fitparse>=1.2.0",
     "geopy>=2.5.0",
     "matplotlib>=3.11.1",
     "pillow>=12.3.0",
