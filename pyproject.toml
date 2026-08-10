@@ -11,7 +11,7 @@ dependencies = [
     "matplotlib>=3.11.1",
     "pillow>=12.3.0",
     "pyproj>=3.7.2",
-    "streamlit>=1.60.0",
+    "streamlit>=1.61.1",
 ]
 
 [tool.uv]
